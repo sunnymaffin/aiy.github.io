@@ -11,14 +11,14 @@ kramdown:
 
 paginate: 10
 paginate_path: "page/:num"
-baseurl: "http://aiy.pw/aiy.github.io/"
+baseurl: "https://sunnymaffin.github.io/aiy.github.io/"
 
 
 
 defaults:
   -
     scope:
-      path: "http://aiy.pw/aiy.github.io/_posts/"
+      path: "https://sunnymaffin.github.io/aiy.github.io/_posts/"
       type: posts
     values:
       layout: post
@@ -39,8 +39,8 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "http://aiy.pw/aiy.github.io/"
-imgrepo: "/static/img/"
+url: "https://sunnymaffin.github.io/aiy.github.io/"
+imgrepo: "https://sunnymaffin.github.io/aiy.github.io/static/img"
 
 
 #url: "http://127.0.0.1:4000"
