@@ -18,7 +18,7 @@ baseurl: "https://sunnymaffin.github.io/blog2"
 defaults:
   -
     scope:
-      path: "https://sunnymaffin.github.io/blog2/"
+      path: ""
       type: posts
     values:
       layout: post
