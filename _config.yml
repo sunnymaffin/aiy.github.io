@@ -27,11 +27,11 @@ defaults:
 
 
 
-title: "bit-ranger"
-email: sincerebravefight@gmail.com
+title: "blog by AI"
+email: a@gmail.com
 description: ""
 github:
-  username: bit-ranger
+  username: sunnymaffin
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
@@ -39,7 +39,7 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "https://bit-ranger.github.io/blog"
+url: "https://aiy.pw/"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 
