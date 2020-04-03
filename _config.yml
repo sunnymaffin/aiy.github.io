@@ -11,7 +11,7 @@ kramdown:
 
 paginate: 10
 paginate_path: "page/:num"
-baseurl: "https://sunnymaffin.github.io/blog2"
+baseurl: ""
 
 
 
